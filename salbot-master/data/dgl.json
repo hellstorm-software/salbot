@@ -1,0 +1,26 @@
+[
+    {
+        "names":["raid", "harassment", "harass"],
+        "content":"Organizing and participating in raids or other forms of harassment. Do not engage in or post content encouraging the harassment of individuals or communities. If someone is harassing you or your community, be proactive and block them immediately."
+    },
+    {
+        "names":["alt", "alts"],
+        "content":"Circumventing tools that enable users to protect themselves and/or repeatedly targeting a user with unwanted friend requests or messages. Do not create spam accounts for the sake of annoying users with requests or other tactics. Do not disguise yourself in attempt to contact someone who has blocked you. Show respect to other people's desire for space."
+    },
+    {
+        "names":["pedo", "loli", "lolicon"],
+        "content":"Sharing illustrated or digitally altered pornography which depicts minors (such as lolicon, shotacon, or cub)."
+    },
+    {
+        "names":["copyright", "dmca"],
+        "content":"Sharing content that violates another person's contractual, personal, intellectual property or other rights. Do not share or post links that violate the Digital Millennium Copyright Act (DMCA). We respond to DMCA requests as described in our Terms of Service."
+    },
+    {
+        "names":["selfharm", "suicide"],
+        "content":"Sharing content glorifying or promoting, in general, self-harm or suicide. This includes any content that encourages others to: cut or injure themselves; embrace anorexia, bulimia, or other eating disorders; or commit suicide rather than, for example, seeking counseling or treatment. Online communities have the power to lift people up from dark places - be the kind of person who lifts others. If you notice that someone is in need of urgent help, please contact your local authorities."
+    },
+    {
+        "names":["gore", "cruelty"],
+        "content":"Sharing images of gore and/or animal cruelty. Do not share or post graphic images for sadistic pleasure, glorification or celebration of violence."
+    }
+]
